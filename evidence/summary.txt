@@ -1,1 +1,0 @@
-Nginx successfully installed, configured, and verified on Ubuntu. Evidence includes configuration, service status, and served index page.
