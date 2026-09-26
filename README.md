@@ -16,6 +16,37 @@ This lab demonstrates Nginx setup, configuration, and troubleshooting.
 - iptables
 - GitHub
 ## Evidence Screenshots
+## Evidence Screenshots
+
+<p align="center">
+  <a href="evidence/Evidence_01_Linux environment.png">
+    <img src="evidence/Evidence_01_Linux environment.png" width="250" />
+  </a>
+  <a href="evidence/Evidence_02_NginxRunning.png">
+    <img src="evidence/Evidence_02_NginxRunning.png" width="250" />
+  </a>
+  <a href="evidence/Evidence_03_CustomWebpage.png">
+    <img src="evidence/Evidence_03_CustomWebpage.png" width="250" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="evidence/Evidence_04_Firewall rules.png">
+    <img src="evidence/Evidence_04_Firewall rules.png" width="250" />
+  </a>
+  <a href="evidence/Evidence_07_SuccessfulRecovery.png">
+    <img src="evidence/Evidence_07_SuccessfulRecovery.png" width="250" />
+  </a>
+  <a href="evidence/Evidence_09_AccessLogs.png">
+    <img src="evidence/Evidence_09_AccessLogs.png" width="250" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="evidence/Evidence_12_Troubleshooting.png">
+    <img src="evidence/Evidence_12_Troubleshooting.png" width="250" />
+  </a>
+</p>
 
 ## Evidence Screenshots
 
