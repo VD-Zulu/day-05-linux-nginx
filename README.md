@@ -17,10 +17,13 @@ This lab demonstrates Nginx setup, configuration, and troubleshooting.
 - GitHub
 ## Evidence Screenshots
 
-![Linux Environment](evidence/Evidence_01_Linux environment.png)
-![Nginx Running](evidence/Evidence_02_NginxRunning.png)
-![Custom Webpage](evidence/Evidence_03_CustomWebpage.png)
-![Firewall Rules](evidence/Evidence_04_Firewall rules.png)
-![Successful Recovery](evidence/Evidence_07_SuccessfulRecovery.png)
-![Access Logs](evidence/Evidence_09_AccessLogs.png)
-![Troubleshooting](evidence/Evidence_12_Troubleshooting.png)
+## Evidence Screenshots
+
+[![Linux Environment](evidence/Evidence_01_Linux environment.png)](evidence/Evidence_01_Linux environment.png)
+[![Nginx Running](evidence/Evidence_02_NginxRunning.png)](evidence/Evidence_02_NginxRunning.png)
+[![Custom Webpage](evidence/Evidence_03_CustomWebpage.png)](evidence/Evidence_03_CustomWebpage.png)
+[![Firewall Rules](evidence/Evidence_04_Firewall rules.png)](evidence/Evidence_04_Firewall rules.png)
+[![Successful Recovery](evidence/Evidence_07_SuccessfulRecovery.png)](evidence/Evidence_07_SuccessfulRecovery.png)
+[![Access Logs](evidence/Evidence_09_AccessLogs.png)](evidence/Evidence_09_AccessLogs.png)
+[![Troubleshooting](evidence/Evidence_12_Troubleshooting.png)](evidence/Evidence_12_Troubleshooting.png)
+
